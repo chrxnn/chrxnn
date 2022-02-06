@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chronnick
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning docker, unraid, bash, kvm etc
-- 💞️ I’m looking to collaborate on dope shit
+- 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me https://chronnick.com/
 
 <!---
