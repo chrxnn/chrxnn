@@ -23,7 +23,7 @@ can find most of my work here on GitHub, and some more on my website,
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/azure.png" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/linux.svg" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/docker.svg" width="40" height="40"/> </a>
-<a href="https://www.vmware.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/vmware/png" width="40" height="40"/> </a>
+<a href="https://www.vmware.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/vmware.png" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/proxmox.png" width="40" height="40"/> </a>
 <a href="https://unraid.net/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/unraid.ico" width="40" height="40"/> </a>
 <a href="https://yaml.org/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/yaml.png" width="40" height="40"/> </a>
