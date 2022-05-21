@@ -14,12 +14,10 @@ can find most of my work here on GitHub, and some more on my website,
 
 - 👨‍💻 All of my projects are available [here](https://github.com/chrxnn?tab=repositories) for personal, and [here](https://github.com/orgs/housefisharr/repositories).
 
-- 📫 How to reach me **nick-chrxnn.com** (replace - with @)
+- 📫 How to reach me **nick-chrxnn.com** (replace - with @) or on Discord 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="Zusier#5691" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7c7UjYENza" height="30" width="40" /></a>
-</p>
+<a href="chronnick#6532" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7c7UjYENza" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
