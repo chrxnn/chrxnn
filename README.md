@@ -12,9 +12,9 @@ can find most of my work here on GitHub, and some more on my website,
 
 - 🌱 I’m currently learning **Kubernetes**.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Zusier?tab=repositories).
+- 👨‍💻 All of my projects are available [here](https://github.com/chrxnn?tab=repositories) for personal, and [here](https://github.com/orgs/housefisharr/repositories).
 
-- 📫 How to reach me **zusier/disroot.org** (replace / with @)
+- 📫 How to reach me **nick-chrxnn.com** (replace - with @)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
