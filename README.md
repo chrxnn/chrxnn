@@ -26,7 +26,5 @@ can find most of my work here on GitHub, and some more on my website,
 <a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/unraid.ico" width="40" height="40"/> </a>
 <a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698356-icon-103-document-file-yml-256.png" width="40" height="40"/> </a>
-https://yaml.org/
-
 </p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrxnn&show_icons=true&locale=en" alt="chrxnn" /></p>-->
