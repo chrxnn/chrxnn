@@ -22,7 +22,7 @@ can find most of my work here on GitHub, and some more on my website,
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/330px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.vmware.com/" target="_blank"> <img src="https://www.seekpng.com/png/detail/243-2432355_vmware-logo-transparent.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.vmware.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" alt="docker" width="40" height="40"/> </a>
 
 </p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrxnn&show_icons=true&locale=en" alt="chrxnn" /></p>-->
