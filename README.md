@@ -4,10 +4,7 @@ I’m a tinkerer working in IT. I’m interested in a wide range of topics, from
 can find most of my work here on GitHub, and some more on my website,
 [chrxnn.com](https://chrxnn.com).
 
-<h1 align="center">Hi 👋, I'm Zusier</h1>
-<h3 align="center">A Programmer, Digital Archivist, and Self-Hoster.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zusier&label=Profile%20views&color=0e75b6&style=flat" alt="zusier" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrxnn&label=Profile%20views&color=0e75b6&style=flat" alt="chrxnn" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zusier" alt="zusier" /></a> </p> -->
 
