@@ -4,7 +4,7 @@ I’m a tinkerer working in IT. I’m interested in a wide range of topics, from
 can find most of my work here on GitHub, and some more on my website,
 [chrxnn.com](https://chrxnn.com).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrxnn&label=Profile%20views&color=0e75b6&style=flat" alt="chrxnn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrxnn&label=Profile%20views&color=brightgreen&style=flat" alt="chrxnn" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zusier" alt="zusier" /></a> </p> -->
 
