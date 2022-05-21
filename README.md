@@ -14,9 +14,7 @@ can find most of my work here on GitHub, and some more on my website,
 
 - 👨‍💻 All of my projects are available [here](https://github.com/chrxnn?tab=repositories) for personal, and [here](https://github.com/orgs/housefisharr/repositories).
 
-- 📫 How to reach me **nick-chrxnn.com** (replace - with @) or on Discord 
-
-<a href="chronnick#6532" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="7c7UjYENza" height="30" width="40" /></a>
+- 📫 How to reach me **nick-chrxnn.com** (replace - with @) or on [Discord](https://discord.com/users/288354979738288131).
 
 
 <h3 align="left">Languages and Tools:</h3>
