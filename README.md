@@ -20,7 +20,7 @@ can find most of my work here on GitHub, and some more on my website,
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Visua Studio Code" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/windows-server-2-logo-png-transparent.png" alt="windows server" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/330px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrxnn&show_icons=true&locale=en" alt="chrxnn" /></p>-->
