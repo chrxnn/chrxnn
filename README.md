@@ -16,7 +16,7 @@ can find most of my work here on GitHub, and some more on my website,
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img src="https://www.pngfind.com/pngs/m/10-105214_windows-server-2-logo-png-transparent-windows-server.png" alt="windows server" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/windows-server-2-logo-png-transparent.png" alt="windows server" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/330px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
