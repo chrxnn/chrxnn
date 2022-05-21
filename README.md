@@ -16,9 +16,8 @@ can find most of my work here on GitHub, and some more on my website,
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.rust-lang.org/static/images/favicon.svg" alt="rust" width="40" height="40"/></a>
-<a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+ 
+<a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/330px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
