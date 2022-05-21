@@ -10,7 +10,7 @@ can find most of my work here on GitHub, and some more on my website,
 
 - 🔭 I’m currently working on [Plex-Meta-Manager-Configs](https://github.com/housefisharr/PMM-Configs) and adding more [Windows desktop](https://github.com/chrxnn/windows-desktop) and [Windows server](https://github.com/chrxnn/windows-server) scripts.
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/).
-- 👨‍💻 All of my projects are available [here](https://github.com/chrxnn?tab=repositories) for personal, and [here](https://github.com/orgs/housefisharr/repositories).
+- 👨‍💻 All of my projects are available [here](https://github.com/chrxnn?tab=repositories) and [here](https://github.com/orgs/housefisharr/repositories).
 - 📫 How to reach me **nick-chrxnn.com** (replace - with @) or on [Discord](https://discord.com/users/288354979738288131).
 
 
