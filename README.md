@@ -23,6 +23,8 @@ can find most of my work here on GitHub, and some more on my website,
 <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.vmware.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.proxmox.com/en/" target="_blank"> <img src="https://camo.githubusercontent.com/21439e24ddd0195751bd0cca02c521e041b87de9c995bcef18c9083d4c1d0473/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67" alt="docker" width="40" height="40"/> </a>
 
+https://camo.githubusercontent.com/21439e24ddd0195751bd0cca02c521e041b87de9c995bcef18c9083d4c1d0473/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67
 </p>
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrxnn&show_icons=true&locale=en" alt="chrxnn" /></p>-->
