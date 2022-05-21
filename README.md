@@ -1,8 +1,8 @@
 # Hi, I’m Nick.
 
-I’m a tinkerer working in IT. I’m interested in a wide range of topics, from automation to . You
+I’m a tinkerer working in IT. I’m interested in a wide range of topics, from automation to self-hosting to exploits. You
 can find most of my work here on GitHub, and some more on my website,
-[jonpalmisc.com](https://jonpalmisc.com).
+[chrxnn.com](https://chrxnn.com).
 
 <h1 align="center">Hi 👋, I'm Zusier</h1>
 <h3 align="center">A Programmer, Digital Archivist, and Self-Hoster.</h3>
