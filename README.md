@@ -13,7 +13,7 @@ can find most of my work here on GitHub, and some more on my website [chrxnn.com
 - 📫 How to reach me [nick@chrxnn.com](mailto:nick@chrxnn.com) or on [Discord](https://discord.com/users/288354979738288131).
 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> 
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/chrxnn/chrxnn/main/vscode.png" width="40" height="40"/> </a>
