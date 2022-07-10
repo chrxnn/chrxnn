@@ -1,6 +1,6 @@
 ## Hi, I’m Nick.
 
-I’m a tinkerer working in IT. I’m interested in a wide range of topics, from automation to self-hosting to exploits. You
+I’m a tinkerer working in IT and am 99% left-brain. I’m interested in a wide range of topics, from automation to self-hosting to exploits. You
 can find most of my work here on GitHub, and some more on my website [chrxnn.com](https://www.chrxnn.com/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrxnn&label=Profile%20views&color=brightgreen&style=flat" alt="chrxnn" /> </p>
